@@ -10,6 +10,10 @@ public class BrowserLaunch {
 		
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.cricbuzz.com");
+		driver.get("https://www.cricbuzz.com");
+		driver.get("https://www.cricbuzz.com");
+		driver.get("https://www.cricbuzz.com");
+		driver.get("https://www.cricbuzz.com");
 	}
 
 }
